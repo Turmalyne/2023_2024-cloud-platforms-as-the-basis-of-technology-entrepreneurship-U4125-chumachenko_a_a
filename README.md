@@ -1,0 +1,1 @@
+# 2023_2024-cloud-platforms-as-the-basis-of-technology-entrepreneurship-U4125-chumachenko_a_a
