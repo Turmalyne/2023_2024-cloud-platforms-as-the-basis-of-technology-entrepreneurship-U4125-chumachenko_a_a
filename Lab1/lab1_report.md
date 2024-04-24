@@ -6,7 +6,7 @@ Group: U4125
 Author: Chumachenko Anastasia Alexandrovna
 Lab: Lab1
 Date of create: 19.04.2024
-Date of finished: 
+Date of finished: 20.04.2024
 
 Был создан service account с ролью storage admin
 ![image](https://github.com/Turmalyne/2023_2024-cloud-platforms-as-the-basis-of-technology-entrepreneurship-U4125-chumachenko_a_a/assets/164026253/0789d777-1178-45da-bc75-6270c3c366bd)
