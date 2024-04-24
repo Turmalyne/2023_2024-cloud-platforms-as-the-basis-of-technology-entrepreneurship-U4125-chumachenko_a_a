@@ -18,6 +18,7 @@ Date of finished:
 ![image](https://github.com/Turmalyne/2023_2024-cloud-platforms-as-the-basis-of-technology-entrepreneurship-U4125-chumachenko_a_a/assets/164026253/e653d3f6-3c02-494c-bedc-0a7e73cd6b66)
 Я изменила мой Cloud Run, поменяв порт на 8090, теперь отображается новая версия
 ![image](https://github.com/Turmalyne/2023_2024-cloud-platforms-as-the-basis-of-technology-entrepreneurship-U4125-chumachenko_a_a/assets/164026253/95b74509-b50f-42b0-ae7b-09f2acac9a52)
+ 
 В метриках заментно, когда я задеплоила новую версию
 ![image](https://github.com/Turmalyne/2023_2024-cloud-platforms-as-the-basis-of-technology-entrepreneurship-U4125-chumachenko_a_a/assets/164026253/e7a2c0eb-de99-41dc-900b-d7423139afaf)
 
