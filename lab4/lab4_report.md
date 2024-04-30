@@ -21,17 +21,18 @@ Date of finished:
 
 **Тестирование партнёрами**
 1) VM: e2-small 0.5-2 vCPU 2 GB memory — 13.23$
-2) SQL Cloud: PostgreSQL 1 vCPU 0.6 GB memory — 27.5$
+2) SQL Cloud: PostgreSQL 1 vCPU 1.7 GB memory — 28.98$
 
-**Итого** 40.73$
+**Итого** 42.21$
 ![image](https://github.com/Turmalyne/2023_2024-cloud-platforms-as-the-basis-of-technology-entrepreneurship-U4125-chumachenko_a_a/assets/164026253/c390cd2f-0616-431c-8956-0438f2a4f367)
 ![image](https://github.com/Turmalyne/2023_2024-cloud-platforms-as-the-basis-of-technology-entrepreneurship-U4125-chumachenko_a_a/assets/164026253/46f16bfb-53ca-4984-adcf-31b7a957bb65)
 
 **Продовое решение**
 1) VM: e2-medium 1-2 vCPU 4 GB memory — 25.46$
-2) SQL Cloud: PostgreSQL 1 vCPU 0.6 GB memory — +- 66.5$
+2) SQL Cloud: PostgreSQL 1 vCPU 3.75 GB memory — 66.5$
 
-**Итого** 96.91$
+**Итого** 91.96$
 ![image](https://github.com/Turmalyne/2023_2024-cloud-platforms-as-the-basis-of-technology-entrepreneurship-U4125-chumachenko_a_a/assets/164026253/805aa6bd-032e-4c13-9e06-78f680ed2746)
-![image](https://github.com/Turmalyne/2023_2024-cloud-platforms-as-the-basis-of-technology-entrepreneurship-U4125-chumachenko_a_a/assets/164026253/43f0f398-a689-473b-9519-74cc99f790a7)
+![image](https://github.com/Turmalyne/2023_2024-cloud-platforms-as-the-basis-of-technology-entrepreneurship-U4125-chumachenko_a_a/assets/164026253/50aa7aa9-70f5-432c-bb1a-80a1af6dbcca)
 
+Чтобы уменьшить расходы в периоды простоя приложения, я бы предпочла варианты, где оплата идёт только за реальное использование ресурсов
