@@ -6,7 +6,7 @@ Group: U4125
 Author: Chumachenko Anastasia Alexandrovna
 Lab: Lab2
 Date of create: 30.04.2024
-Date of finished:
+Date of finished:30.04.2024
 
 Создала свой Cloud Storage bucket
 ![image](https://github.com/Turmalyne/2023_2024-cloud-platforms-as-the-basis-of-technology-entrepreneurship-U4125-chumachenko_a_a/assets/164026253/5e7d6f28-f617-484a-b231-9605f5b4347e)
