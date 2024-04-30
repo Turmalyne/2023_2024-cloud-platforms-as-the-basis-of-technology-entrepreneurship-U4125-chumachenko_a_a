@@ -6,7 +6,7 @@ Group: U4125
 Author: Chumachenko Anastasia Alexandrovna
 Lab: Lab2
 Date of create: 24.04.2024
-Date of finished:
+Date of finished: 26.04.2024
 
 Был создан Cloud Run из представленного дефолтного сервиса Hello с минимальным количеством ресурсов
 ![image](https://github.com/Turmalyne/2023_2024-cloud-platforms-as-the-basis-of-technology-entrepreneurship-U4125-chumachenko_a_a/assets/164026253/769f4bd4-cf07-4f33-aac5-a933f6551a1e)
