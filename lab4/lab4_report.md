@@ -35,4 +35,4 @@ Date of finished:
 ![image](https://github.com/Turmalyne/2023_2024-cloud-platforms-as-the-basis-of-technology-entrepreneurship-U4125-chumachenko_a_a/assets/164026253/805aa6bd-032e-4c13-9e06-78f680ed2746)
 ![image](https://github.com/Turmalyne/2023_2024-cloud-platforms-as-the-basis-of-technology-entrepreneurship-U4125-chumachenko_a_a/assets/164026253/50aa7aa9-70f5-432c-bb1a-80a1af6dbcca)
 
-Чтобы уменьшить расходы в периоды простоя приложения, я бы предпочла варианты, где оплата идёт только за реальное использование ресурсов
+Для того, чтобы уменьшить расходы в периоды простоя приложения, я бы предпочла варианты, где оплата идёт только за реальное использование ресурсов
