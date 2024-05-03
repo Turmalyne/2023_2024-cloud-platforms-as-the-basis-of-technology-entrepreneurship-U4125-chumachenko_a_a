@@ -9,7 +9,7 @@ Date of create: 30.04.2024
 Date of finished:
 
 Используя draw.io, накидала схему инфраструктуры приложения
-![image](https://github.com/Turmalyne/2023_2024-cloud-platforms-as-the-basis-of-technology-entrepreneurship-U4125-chumachenko_a_a/assets/164026253/4b6a4457-ddf0-463f-8f65-bcf1747f5102)
+![image](https://github.com/Turmalyne/2023_2024-cloud-platforms-as-the-basis-of-technology-entrepreneurship-U4125-chumachenko_a_a/assets/164026253/7e519715-ddbf-4bdc-a9ec-1ac9396a5062)
 
 **Начальное состояние**
 1) VM: e2-micro 0.25-2 vCPU 1 GB memory — 7.11$
