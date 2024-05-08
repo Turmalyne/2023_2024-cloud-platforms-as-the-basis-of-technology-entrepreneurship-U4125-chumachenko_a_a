@@ -16,3 +16,6 @@ Date of finished: --.--.2024
 
 ![image](https://github.com/Turmalyne/2023_2024-cloud-platforms-as-the-basis-of-technology-entrepreneurship-U4125-chumachenko_a_a/assets/164026253/509a8289-94e2-4468-8fd5-179a39606c2c)
 
+Подсоединила github и сделала backfill
+
+![image](https://github.com/Turmalyne/2023_2024-cloud-platforms-as-the-basis-of-technology-entrepreneurship-U4125-chumachenko_a_a/assets/164026253/15e443e4-325f-4d96-8554-09c536dab790)
