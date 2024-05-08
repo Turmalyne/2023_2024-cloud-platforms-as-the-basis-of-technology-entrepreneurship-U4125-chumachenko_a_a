@@ -10,11 +10,11 @@ Date of finished: --.--.2024
 
 Создала Team-managed Scrum проект. Добавила коллегу, добавила в проект фичи Backlog и Code и создала колонку On Check.
 
-![image](https://github.com/Turmalyne/2023_2024-cloud-platforms-as-the-basis-of-technology-entrepreneurship-U4125-chumachenko_a_a/assets/164026253/b493f6f4-f451-4ace-98ad-6574c71c9a4f)
+![image](https://github.com/Turmalyne/2023_2024-cloud-platforms-as-the-basis-of-technology-entrepreneurship-U4125-chumachenko_a_a/assets/164026253/bf07fa0e-b6ed-4246-9358-8f31abfaf92a)
 
 Заполнила бэклог парой задач
 
-![image](https://github.com/Turmalyne/2023_2024-cloud-platforms-as-the-basis-of-technology-entrepreneurship-U4125-chumachenko_a_a/assets/164026253/509a8289-94e2-4468-8fd5-179a39606c2c)
+![image](https://github.com/Turmalyne/2023_2024-cloud-platforms-as-the-basis-of-technology-entrepreneurship-U4125-chumachenko_a_a/assets/164026253/d0399e63-4b44-4efb-9e78-cc0c668c639d)
 
 Подсоединила github и сделала backfill
 
