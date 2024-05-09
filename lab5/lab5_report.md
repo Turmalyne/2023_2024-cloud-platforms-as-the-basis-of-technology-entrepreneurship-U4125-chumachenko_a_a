@@ -24,3 +24,6 @@ Date of finished: --.--.2024
 
 ![image](https://github.com/Turmalyne/2023_2024-cloud-platforms-as-the-basis-of-technology-entrepreneurship-U4125-chumachenko_a_a/assets/164026253/59880fb4-6506-4ed6-962d-009c7c4d1437)
 
+Screencast
+https://drive.google.com/drive/folders/1n54BFsOGigm1oEOHG7-0PqLPOcso7Eh5?usp=sharing
+
